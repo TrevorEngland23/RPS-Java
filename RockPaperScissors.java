@@ -1,3 +1,5 @@
+// Trevor England, Dan Peveto
+
 import java.awt.*;
 import java.awt.event.ActionEvent;
 import javax.swing.*;
